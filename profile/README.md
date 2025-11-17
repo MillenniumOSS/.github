@@ -2,6 +2,8 @@
 
 This organization contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/CAMON 20 Pro 4G/Infinix Note 30 Pro
 
+* [**Local Manifests**](https://github.com/MillenniumOSS/local_manifests) (`local_manifests`)
+
 ### Required device specific repositories
 #### Millennium 'Abyssgard' family a.k.a TECNO POVA 4 and POVA 4 Pro
 * [**LG8n Device tree**](https://github.com/MillenniumOSS/android_device_tecno_LG8n) (`android_device_tecno_LG8n`)
