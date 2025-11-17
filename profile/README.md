@@ -1,12 +1,20 @@
-## Hi there 👋
+## MillenniumOSS
 
-<!--
+This organization contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/CAMON 20 Pro 4G/Infinix Note 30 Pro
 
-**Here are some ideas to get you started:**
+### Required device specific repositories
+#### Millennium 'Abyssgard' family a.k.a TECNO POVA 4 and POVA 4 Pro
+* [**LG8n Device tree**](https://github.com/MillenniumOSS/android_device_tecno_LG8n) (`android_device_tecno_LG8n`)
+* [**LG8n Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_tecno_LG8n-kernel) (`android_device_tecno_LG8n-kernel`)
+* [**LG7n Device tree**](https://github.com/MillenniumOSS/android_device_tecno_LG7n) (`android_device_tecno_LG7n`)
+* [**LG7n Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_tecno_LG7n-kernel) (`android_device_tecno_LG7n-kernel`)
+* [**LG7n/LG8n Common tree**](https://github.com/MillenniumOSS/android_device_tecno_mt6789-common) (`android_device_tecno_mt6789-common`)
+* [**LG8n Vendor tree**](https://github.com/MillenniumOSS/android_vendor_tecno_LG8n) (`android_vendor_tecno_LG8n`)
+* [**LG7n Vendor tree**](https://github.com/MillenniumOSS/android_vendor_tecno_LG7n) (`android_vendor_tecno_LG7n`)
+* [**mt6789-common Vendor tree**](https://github.com/MillenniumOSS/android_vendor_tecno_mt6789-common) (`android_vendor_tecno_mt6789-common`)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Other required repositories
+* [**MediaTek sepolicy**](https://github.com/MillenniumOSS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
+* [**MediaTek hardware**](https://github.com/MillenniumOSS/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**MediaTek hardware**](https://github.com/MillenniumOSS/android_hardware_millennium) (`android_hardware_millennium`)
+
