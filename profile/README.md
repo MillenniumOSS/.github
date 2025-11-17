@@ -18,5 +18,5 @@ This organization contains all the important repositories required to build AOSP
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/MillenniumOSS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**MediaTek hardware**](https://github.com/MillenniumOSS/android_hardware_mediatek) (`android_hardware_mediatek`)
-* [**MediaTek hardware**](https://github.com/MillenniumOSS/android_hardware_millennium) (`android_hardware_millennium`)
+* [**Millennium hardware**](https://github.com/MillenniumOSS/android_hardware_millennium) (`android_hardware_millennium`)
 
