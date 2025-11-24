@@ -2,6 +2,7 @@
 
 This organization contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/CAMON 20 Pro 4G/Infinix Note 30 Pro
 
+#### Useful Links
 * [**Local Manifests**](https://github.com/MillenniumOSS/local_manifests) (`local_manifests`)
 
 ### Required device specific repositories
@@ -38,4 +39,4 @@ This organization contains all the important repositories required to build AOSP
 * [**MediaTek hardware**](https://github.com/MillenniumOSS/android_hardware_mediatek) (`android_hardware_mediatek`)
 * [**MediaTek IMS Stack**](https://github.com/MillenniumOSS/android_vendor_mediatek_ims) (`android_vendor_mediatek_ims`)
 * [**Millennium hardware**](https://github.com/MillenniumOSS/android_hardware_millennium) (`android_hardware_millennium`)
-
+* [**Millennium Common GKI**](https://github.com/MillenniumOSS/android_device_millennium_common-kernel) (`android_device_millennium_common-kernel`)
