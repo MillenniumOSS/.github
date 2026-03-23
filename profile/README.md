@@ -1,6 +1,6 @@
 ## MillenniumOSS
 
-This organization contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/CAMON 20 Pro 4G/Infinix Note 30 Pro
+This organization also contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/CAMON 20 Pro 4G/Infinix Note 30 Pro
 
 #### Useful Links
 * [**Local Manifests**](https://github.com/MillenniumOSS/local_manifests) (`local_manifests`)
