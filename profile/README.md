@@ -1,6 +1,6 @@
 ## MillenniumOSS
 
-This organization also contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/CAMON 20 Pro 4G/Infinix Note 30 Pro
+This organization also contains all the important repositories required to build AOSP ROMs for TECNO POVA 4/4 Pro/POVA 5/Infinix Note 30 Pro
 
 #### Useful Links
 * [**Local Manifests**](https://github.com/MillenniumOSS/local_manifests) (`local_manifests`)
@@ -23,10 +23,6 @@ This organization also contains all the important repositories required to build
 * [**LH7n Device tree**](https://github.com/MillenniumOSS/android_device_tecno_LH7n) (`android_device_tecno_LH7n`)
 * [**LH7n Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_tecno_LH7n-kernel) (`android_device_tecno_LH7n-kernel`)
 * [**LH7n Vendor tree**](https://github.com/MillenniumOSS/android_vendor_tecno_LH7n) (`android_vendor_tecno_LH7n`)
-##### TECNO CAMON 20 Pro
-* [**CK7n Device tree**](https://github.com/MillenniumOSS/android_device_tecno_CK7n) (`android_device_tecno_CK7n`)
-* [**CK7n Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_tecno_CK7n-kernel) (`android_device_tecno_CK7n-kernel`)
-* [**CK7n Vendor tree**](https://github.com/MillenniumOSS/android_vendor_tecno_CK7n) (`android_vendor_tecno_CK7n`)
 ##### Infinix NOTE 30 Pro
 * [**X678B Device tree**](https://github.com/MillenniumOSS/android_device_infinix_X678B) (`android_device_infinix_X678B`)
 * [**X678B Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_infinix_X678B-kernel) (`android_device_infinix_X678B-kernel`)
