@@ -23,10 +23,6 @@ This organization also contains all the important repositories required to build
 * [**LH7n Device tree**](https://github.com/MillenniumOSS/android_device_tecno_LH7n) (`android_device_tecno_LH7n`)
 * [**LH7n Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_tecno_LH7n-kernel) (`android_device_tecno_LH7n-kernel`)
 * [**LH7n Vendor tree**](https://github.com/MillenniumOSS/android_vendor_tecno_LH7n) (`android_vendor_tecno_LH7n`)
-##### Infinix NOTE 30 Pro
-* [**X678B Device tree**](https://github.com/MillenniumOSS/android_device_infinix_X678B) (`android_device_infinix_X678B`)
-* [**X678B Device kernel tree (Prebuilt modules)**](https://github.com/MillenniumOSS/android_device_infinix_X678B-kernel) (`android_device_infinix_X678B-kernel`)
-* [**X678B Vendor tree**](https://github.com/MillenniumOSS/android_vendor_infinix_X678B) (`android_vendor_infinix_X678B`)
 
 ---
 
